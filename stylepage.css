@@ -1,0 +1,136 @@
+body {
+  height: 10vh;
+  max-width: 1500px;
+  background-color: #ffffff; 
+  background-image: url(blueback.jpg);
+  margin: 0 auto;
+}
+
+
+.p1
+ {text-align: center;}
+      .div-1
+      {
+          height: 400px;
+        width: 449.4px; 
+      position: relative;
+      right:0px;
+      top:828px;
+        color: #000000;
+      
+       
+
+        background-color: #badeea;
+        
+        font-size: 14px;
+      }
+      .div-2
+      {
+      position: relative;  
+       bottom: 0px;
+       width:451px;
+       height: 400px;
+        top : 414px;
+       left: 449px;  
+       
+        color:#000000;
+        background-color: #badeea;
+        
+        font-size: 14px;
+      }
+
+
+      .div-3
+      {
+      position: relative;  
+       bottom: 0px;
+       width:449.4px;
+       height: 400px;
+            
+       left: 900px;  
+      
+        color:#000000;
+        background-color: #badeea;
+        
+        font-size: 14px;
+      }
+
+      
+      .h11{
+        font-family: 'Courier New', Courier, monospace;
+      
+        text-align:justify;
+       
+       border-radius: 10px;
+       padding: 40px;
+      }
+
+      .headinfo{
+        position: relative;  
+       
+       width:350px;
+       height: 100px;
+       left: 10px; 
+       top : 870px;
+      
+      }
+
+      .h12{
+        font-family: 'Courier New', Courier, monospace ; 
+        
+      }
+
+      .h21{
+        font-family: 'Courier New', Courier, monospace ;
+        text-align: center;
+        border-radius: 10px;
+        padding: 20px;
+      
+      }
+
+      .h22{
+        font-family: 'Courier New', Courier, monospace ;
+        font-size :3px;
+        text-align: center;
+        border-radius: 10px;
+        padding: 20px;
+      
+      }
+
+      .b{
+        position: relative;
+        background:rgb(186, 222, 234);
+        color:rgb(0, 0, 0);
+        text-align: center;
+        border-radius: 8px;
+        padding: 20px;
+        left: 380px;
+        
+      }
+      .b:hover{
+        background-color: #abcdd8;
+        cursor: pointer;
+        
+      }
+      
+
+      .cover{
+      position: relative;  
+       top: 40px;
+       width:200px;
+       height:200px;
+      bottom : 1000px;  
+       left: 749px; 
+      
+      }
+
+      .head1{
+        position: relative;  
+         
+         width:850px;
+         height: 200px;
+         top : 600 px;
+         left: 0px; 
+        
+        }
+        
